@@ -1,0 +1,8 @@
+numpy
+scipy
+opencv-python
+scikit-image
+gradio
+pillow
+# optional, only for the LaMa option (needs ~200 MB weights on first use):
+torch
